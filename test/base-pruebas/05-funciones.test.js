@@ -1,13 +1,5 @@
 import { getUser, getUsuarioActivo, saludar2, saludar3, saludar4 } from "../../src/base-pruebas/05-funciones";
 
-/* 
-
-Estos test nos van a servir para poder probar que valores estan retornando nuestras funciones y si es que el valor que retornan las funciones
-es un valor esperado o es un valor que no deberia estar retornando nuestra función de esta manera evitamos errores futuros dentro 
-de nuestra aplicación.
-
-*/
-
 describe('Pruebas en 05-funciones', () => {
 
     test('getUser debe retornar un objeto', () => { 
