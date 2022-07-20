@@ -2,6 +2,6 @@
 
 ***
 
-<p align="center">Repositorio con ejercicios funciones de javascript para aprender a trabajar con <strong>test unitarios en jest</strong></p>
+<p align="center">Repositorio con funciones de javascript para aprender y practicar <strong>tests unitarios en jest</strong></p>
 
 ***
